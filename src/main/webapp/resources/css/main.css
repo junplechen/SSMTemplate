@@ -1,0 +1,63 @@
+.login-page{
+	height:100%;
+	background: url(../picture/bg-dark.jpg);
+	background-size:100%;
+}
+div.login-panel {
+	
+	width:280px;
+	background: #000000;
+	padding: 18px;
+	background-color: rgba(48,48,48,0.4);
+	position: fixed;
+	right: 200px;
+	top: 140px;
+}
+
+.power{
+	color:white;
+	position: fixed;
+	bottom:6px;
+	margin: 0 auto;
+	font-size: 8px;
+}
+
+.bottom{
+	width: 100%;
+}
+
+.btn{
+	width:100%;
+}
+h6#login-hint{
+	
+	color:rgb(234,58,58);
+	height:26px;
+}
+
+.btn-login{
+	margin-top:10px;
+	margin-bottom: 60px;
+}
+
+.navbar-right{
+	margin-right: 60px;
+}
+
+.login-form{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.left-nav{
+	width:220px;
+	background: black;
+	height:120px;
+	float: left;
+	display: fixed;
+}
+
+.main-content{
+
+	margin-left: 220px;
+}
